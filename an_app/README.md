@@ -1,3 +1,3 @@
-# an_app
+# Flutter Mini-Project
 
-A flutter mini-project for getting familiar with flutter.
+an_app: A flutter mini-project for getting familiar with flutter.
